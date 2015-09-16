@@ -1,8 +1,8 @@
-package CreationalPatterns;
+package CreationalPatterns.Singleton_FactoryMethod;
 
 import java.util.Arrays;
 
-import static CreationalPatterns.Calculator.getCalculator;
+import static CreationalPatterns.Singleton_FactoryMethod.Calculator.getCalculator;
 
 public class Calculations {
 

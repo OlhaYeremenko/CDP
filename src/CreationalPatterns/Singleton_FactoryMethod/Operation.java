@@ -1,4 +1,4 @@
-package CreationalPatterns;
+package CreationalPatterns.Singleton_FactoryMethod;
 
 /**
  * Created by Olha_Yeremenko on 14.09.2015.

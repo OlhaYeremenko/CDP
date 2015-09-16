@@ -1,4 +1,4 @@
-package CreationalPatterns;
+package CreationalPatterns.Singleton_FactoryMethod;
 
 import java.util.List;
 
